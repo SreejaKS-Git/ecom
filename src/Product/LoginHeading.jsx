@@ -24,13 +24,13 @@ function LoginHeading() {
             <div className='headingDiv'>
                 <h1>Shopping </h1>
             </div>
-            <div className='container'>
+            {/* <div className='container'>
             
                 <div className='userDiv'>
                     <label htmlFor="" className='labels-1'>Hello </label>
                     <button className="button-1" type='button' onClick={handleProfile}>{loginToken}</button>
                 </div>
-            </div>
+            </div> */}
         </div>
     )
 }
